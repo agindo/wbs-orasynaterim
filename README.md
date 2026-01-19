@@ -1,1 +1,2 @@
 # wbs-orasynaterim
+# wbs-lan
